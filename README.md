@@ -1,6 +1,6 @@
 ## Bugaditor - simple text editor
 ### Screencast:
-![Alt text]()
+![Alt text](https://github.com/Acool4ik/Bugaditor/blob/master/img/image.png)
 ### How to run
 ```console
 sudo apt update
