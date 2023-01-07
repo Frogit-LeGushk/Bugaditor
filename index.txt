@@ -1,0 +1,27 @@
+#include <iosthream>
+#include <string>
+
+using namespace std;
+
+const string message = 
+"        Key shortcasts:\n"
+"1. Enter              - new line\n"
+"2. Ctrl + C           - copy selected text in buffer\n"
+"3. Ctrl + V           - insert previosly saved text from buffer\n"
+"4. Backspace          - delete char or selected area\n"
+"5. Array Up           - up cursor\n"
+"6. Array Down         - down cursor\n"
+"7. Array Left         - left cursor\n"
+"8. Array Right        - right cursor\n"
+"9. Ctrl + S           - save file\n"
+"10. Ctrl + B          - set cursor to begin current line\n"
+"11. Ctrl + E          - set cursor to end current line\n"
+"12. Ctrl + Array Right- set cursor to end of text\n"
+"13. Ctrl + Array Left - set cursor to begin of text\n"
+
+int main(int argc, char ** argv)
+{
+    cout << message << endl;
+    return 0;
+}
+
