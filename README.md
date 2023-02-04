@@ -1,4 +1,4 @@
-## Bugaditor - simple text editor
+## Bugaditor - simple text editor (tested only on Ubuntu 20.04 in "xterm-256color" terminal)
 ### Screencast:
 ![Alt text](https://github.com/Acool4ik/Bugaditor/blob/master/img/image.png)
 ### How to run (tested only on Ubuntu 20.04)
