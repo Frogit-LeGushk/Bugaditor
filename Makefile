@@ -1,7 +1,7 @@
 CC=g++
 
-CFLAGS_RELEASE=-g0 -ggdb -pg -O3
-CFLAGS_DEBUG=-g3 -O1
+CFLAGS_RELEASE=-g0 -O3
+CFLAGS_DEBUG=-ggdb -g3 -O1 -pg
 CFLAGS=-Wall -Wextra -Wswitch-enum -pedantic -std=gnu++17
 LFLAGS=-lncurses
 
